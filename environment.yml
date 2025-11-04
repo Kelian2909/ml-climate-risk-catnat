@@ -1,0 +1,17 @@
+name: climaterisk
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pandas
+  - xarray
+  - geopandas
+  - pyproj
+  - shapely
+  - rtree
+  - scikit-learn
+  - matplotlib
+  - contextily
+  - pykrige
+  - scikit-gstat
+  - pyarrow
+  - tqdm
