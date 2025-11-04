@@ -1,4 +1,8 @@
 # Partie I — Descriptif (Département 13)
+
+**Contexte (rappel).** Le 13 présente une forte saisonnalité du SWI (creux JJA), influencée par le Mistral et des recharges automnales hétérogènes. La présence d’argiles accroît la vulnérabilité RGA. On cherche des cartes **μ̂(SWI)** et **incertitudes** à la maille **commune** pour éclairer CatNat.
+
+
 A. Setup (imports, chemins, CRS=2154)
 B. Chargement des données (communes 13, SWI mensuel, argiles)
 C. QA & complétude (NA, histogrammes)
